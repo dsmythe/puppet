@@ -1,0 +1,4 @@
+puppet
+======
+
+Basic Puppet Manifests
